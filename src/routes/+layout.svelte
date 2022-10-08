@@ -1,6 +1,6 @@
 <script>
     import "../app.css"
-    let src = '/src/images/index.jpeg';
+    let src = 'static/logo.jpeg';
 </script>
 
 <div class="border-b antialiased
