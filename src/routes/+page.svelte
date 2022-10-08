@@ -3,7 +3,7 @@
 </div> -->
 
 <div class="text-[#ac3b61] mt-6">
-    <a class="w-full flex items-center text-lg justify-center bg-[#edc7b7] rounded-md px-6 py-4 font-bold" href="https://wa.me/6289676370091?text=Hallo%20Spill%20The%20Thrift"><img class="mr-2 w-[20px]" src="/src/icons/whatsapp.svg" alt="">Whatsapp Admin</a>
+    <a class="w-full flex items-center text-lg justify-center bg-[#edc7b7] rounded-md px-6 py-4 font-bold" href="https://wa.me/6289676370091?text=Hallo%20Spill%20The%20Thrift"><img class="mr-2 w-[20px]" src="/whatsapp.svg" alt="">Whatsapp Admin</a>
 </div>
 
 <div class="bg-[#edc7b7] border rounded-md p-5 text-center my-4">
